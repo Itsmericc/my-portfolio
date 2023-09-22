@@ -1,0 +1,84 @@
+h1
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-shadow:black 
+    
+}
+p
+{
+    font-size: small;
+    border: 5px solid white;
+    padding: 10px;
+    position: relative;
+    top: 1.5cm;
+    font-family: 'Libre Baskerville', serif;
+    
+}
+.social-media-icons-white a
+{
+    color: rgb(0, 0, 0);
+    font-size: 35px;
+    left: 510px;
+    position: relative;
+    
+}
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    background-image: url('background1.jpg');
+    height: 200vh;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+
+}
+img{
+    clip-path: circle();
+    border-radius: 50%;
+    border: 5px solid white;
+}
+h2{
+    position: absolute;
+    margin: auto;
+    margin-top: 1cm;
+    left: 10px;
+}
+h3{
+    font-family: 'Libre Baskerville', serif;
+
+}
+h4{
+    margin: 30px;
+    margin-top: 2%;
+    font-size: 25px;
+    margin left: 30px;
+    margin-bottom: 0px;
+}
+ul{
+    font-size: 20px;
+    margin: 3
+    0px;
+}
+h5{
+    margin: 30px;
+    margin-top: 20px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    
+}
+h6{
+    margin: auto;
+    margin-top: 80px;
+    font-size: 23px;
+    margin-left: 30px;
+}
+li{
+    font-size: medium;
+    margin-left: 30px;
+}
+
+
